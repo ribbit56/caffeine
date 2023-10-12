@@ -4,4 +4,4 @@ In this project, we take a look at a dataset which contains numerous different d
 
 The project uses Pandas for data manipulation and filtering and Plotly for vizualization.
 
-* a quick note - Plotly visuals wont show up directly in Github, but you can use the nbviewer at the following link to see the project thee if you dont want to load it outside of Github.
+* a quick note - Plotly visuals wont show up directly in Github, but you can use the nbviewer at the following link (https://nbviewer.org/github/ribbit56/caffeine/tree/main/) to see the project thee if you dont want to load it outside of Github.
